@@ -8,10 +8,10 @@
    <obj type="jaffa/string/c4" uuid="e7c37b3e-e478-4967-8b0b-fc400c050e6a" name="c4_1" x="336" y="196">
       <params/>
       <attribs>
-         <table attributeName="1" table="How"/>
-         <table attributeName="2" table="do"/>
-         <table attributeName="3" table="you"/>
-         <table attributeName="4" table="like"/>
+         <table attributeName="1" table="Hello"/>
+         <table attributeName="2" table="welcom"/>
+         <table attributeName="3" table="to"/>
+         <table attributeName="4" table="Axoctrl"/>
       </attribs>
    </obj>
    <obj type="hohum/control/axoctrl" uuid="cac3cb92-39b7-4e08-9289-1f6a2b825161" name="obj_1" x="616" y="196">
@@ -23,7 +23,7 @@
    <obj type="string/c" uuid="4aa90a90c435a742ddfa152d232883fc5b2f1b3" name="c_2" x="336" y="378">
       <params/>
       <attribs>
-         <table attributeName="str" table="this?"/>
+         <table attributeName="str" table="Bleeb"/>
       </attribs>
    </obj>
    <nets>
@@ -57,8 +57,8 @@
    </settings>
    <notes><![CDATA[]]></notes>
    <windowPos>
-      <x>324</x>
-      <y>461</y>
+      <x>0</x>
+      <y>0</y>
       <width>1440</width>
       <height>900</height>
    </windowPos>
