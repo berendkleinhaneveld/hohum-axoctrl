@@ -9,7 +9,7 @@
       <params/>
       <attribs>
          <table attributeName="1" table="Hello"/>
-         <table attributeName="2" table="welcom"/>
+         <table attributeName="2" table="welcome"/>
          <table attributeName="3" table="to"/>
          <table attributeName="4" table="Axoctrl"/>
       </attribs>
